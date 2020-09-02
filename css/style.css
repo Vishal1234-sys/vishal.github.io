@@ -1,0 +1,101 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  text-align: center;
+  font-style: italic;
+  background-color: yellow;
+}
+.bottom {
+  position: absolute;
+  top: 300px;
+  bottom: 300px;
+}
+
+.top {
+  position: absolute;
+  top: 30px;
+  right: 400px
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: lightgreen;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 4.5rem;
+  color: #66BFBF;
+}
+
+.THOR {
+  height: 300px;
+  width: 25%;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.vishal{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.footer-link{
+  text-decoration: none;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+}
+.footer-link:hover{
+  background-color: white;
+  color: black;
+}
+.contact-me{
+  margin-bottom: 20px;
+}
+.middle-container{
+margin-top: 30px;
+}
+hr{
+  border: dotted lightgreen 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+.btn {
+	box-shadow:inset -10px 21px 16px -41px #3dc21b;
+	background-color:#44c767;
+	border-radius:15px;
+	border:3px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	font-style:italic;
+	padding:13px 21px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn:hover {
+	background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
